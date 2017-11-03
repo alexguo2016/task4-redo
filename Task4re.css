@@ -21,9 +21,9 @@ input{outline: none;border:0px;font-size:26px;
     height:100%;width:100%;}
 div.img{float:left;margin:30px;margin-right:0px;width:60px;
     border-right:2px solid rgb(234,237,238);}
-div.tel{margin-left:120px;height:100%;width:100%;
+div.tel{margin-left:120px;height:100%;
     }
-div.pass{margin-left:120px;height:100%;width:100%;}
+div.pass{margin-left:120px;height:100%;}
 
 button.logbtn{
     position:absolute;top:342px;color:white;
